@@ -1,6 +1,7 @@
-![](banner.png)
+<h1 align = 'center'>👨‍💻 Welcome to my coding universe! 🌟</h1>
 
-👨‍💻 Welcome to my coding universe! 🌟
+
+![](banner.png)
 
 Hey there, fellow code voyagers! I'm Alin Anjum, a polyglot software architect with a penchant for crafting elegant solutions across the digital spectrum. With stars in my eyes and code in my veins, I navigate the ever-expanding cosmos of technology with boundless enthusiasm and a hunger for innovation.
 
