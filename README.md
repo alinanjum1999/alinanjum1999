@@ -38,7 +38,7 @@ Let's stay connected! Feel free to reach out to me via email at alinanjum9@gmail
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinanjum1999&show_icons=true&locale=en&layout=compact" alt="alinanjum1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinanjum1999&show_icons=true&locale=en" alt="alinanjum1999" /></p>
+
 
 
 
