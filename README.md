@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alin Anjum</h1>
 <h3 align="center">A passionate Full Stack developer from the USA</h3>
-![](banner.png)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alinanjum1999&label=Profile%20views&color=0e75b6&style=flat" alt="alinanjum1999" /> </p>
 
 <p align = "left">Hey there, fellow code voyagers! I'm Alin Anjum, a polyglot software architect with a penchant for crafting elegant solutions across the digital spectrum. With stars in my eyes and code in my veins, I navigate the ever-expanding cosmos of technology with boundless enthusiasm and a hunger for innovation.
 
