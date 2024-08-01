@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinanjum1999&label=Profile%20views&color=0e75b6&style=flat" alt="alinanjum1999" /> </p>
 
-<p align = "left:>Hey there, fellow code voyagers! I'm Alin Anjum, a polyglot software architect with a penchant for crafting elegant solutions across the digital spectrum. With stars in my eyes and code in my veins, I navigate the ever-expanding cosmos of technology with boundless enthusiasm and a hunger for innovation.
+<p align = "left">Hey there, fellow code voyagers! I'm Alin Anjum, a polyglot software architect with a penchant for crafting elegant solutions across the digital spectrum. With stars in my eyes and code in my veins, I navigate the ever-expanding cosmos of technology with boundless enthusiasm and a hunger for innovation.
 
 Python is my trusty starship in this cosmic journey, and I wield it with mastery in the realms of machine learning, harnessing the powers of TensorFlow and PyTorch to unravel the mysteries of data and unlock the secrets of artificial intelligence. From training neural networks to exploring the frontiers of deep learning, I thrive on the challenges that come with pushing the boundaries of what's possible.
 
